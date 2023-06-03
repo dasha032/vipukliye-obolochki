@@ -11,12 +11,12 @@ Gem::Specification.new do |spec|
 
   spec.summary = ""
   spec.description = ""
-  spec.homepage = ""
+  spec.homepage = "https://github.com/dasha032/vipukliye-obolochki.git"
   spec.license = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/IQueue/Vipukliye_obolochki.git"
-  spec.metadata["changelog_uri"] = "https://github.com/IQueue/Vipukliye_obolochki.git"
+  spec.metadata["source_code_uri"] = "https://github.com/dasha032/vipukliye-obolochki.git"
+  spec.metadata["changelog_uri"] = "https://github.com/dasha032/vipukliye-obolochki.git"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
