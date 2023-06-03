@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["Daria Kolbasina, Anastasia Roy, Alexey Vasiliev"]
   spec.email = ["dkolbasina@sfedu.ru"]
 
-  spec.summary = ""
-  spec.description = ""
+  spec.summary = "This is a library for constructing convex hulls. It includes implementations of both the Jarvis and Graham algorithms."
+  spec.description = "This is a library for constructing convex hulls. It includes implementations of both the Jarvis and Graham algorithms."
   spec.homepage = "https://github.com/dasha032/vipukliye-obolochki.git"
   spec.license = "MIT"
 
